@@ -1,0 +1,10 @@
+file_format: "1"
+id: OK56
+name: OK56
+type: shield
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - OK56_left
+  - OK56_right
