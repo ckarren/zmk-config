@@ -1,3 +1,4 @@
+name: zmk-keyboards-ok56
 build:
   settings:
     board_root: .
